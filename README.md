@@ -1,61 +1,67 @@
-Full-stack Payload CMS + Next.js starter template with PostgreSQL and Tailwind CSS.
-
 # Payload CMS + Next.js Starter
 
-A production-ready **Payload CMS + Next.js starter template**.
+A production-ready **Payload CMS + Next.js starter template** built for modern full-stack applications.
 
-Built for modern full-stack web applications using:
+Includes **PostgreSQL, Tailwind CSS, and TypeScript**, with a clean architecture designed for scalable platforms.
 
-* Payload CMS
-* Next.js
-* PostgreSQL
-* Tailwind CSS
-* TypeScript
-
-This starter provides a strong foundation for building:
-
-• headless CMS platforms
-• SaaS applications
-• content-driven websites
-• API-first platforms
+Maintained by **SazM**
+🌐 https://sazm.in
 
 ---
 
 # Features
 
-* Payload CMS admin panel
-* Next.js App Router
-* PostgreSQL database
-* TypeScript support
-* modern full-stack architecture
-* scalable project structure
+Built for modern **headless CMS platforms and full-stack applications**.
+
+• Payload CMS admin panel
+• Next.js App Router architecture
+• PostgreSQL database integration
+• TypeScript support
+• Tailwind CSS styling
+• API-first architecture
+• scalable project structure
+• production-ready full-stack foundation
 
 ---
 
 # Tech Stack
 
-Frontend
+### Frontend
 
 * Next.js
 * React
 * Tailwind CSS
 * TypeScript
 
-Backend
+### Backend
 
 * Payload CMS
 * Node.js
 * PostgreSQL
 
-Infrastructure
+### Infrastructure
 
 * Vercel
 * Cloud storage support
-* API-first architecture
+* API-driven architecture
 
 ---
 
-# Getting Started
+# Project Structure
+
+```
+src
+├── app
+├── components
+├── collections
+├── utilities
+├── payload.config.ts
+└── types
+```
+
+---
+
+# Quick Start
 
 Clone the repository:
 
@@ -69,23 +75,42 @@ Install dependencies:
 pnpm install
 ```
 
-Run development:
+Run development server:
 
 ```
 pnpm dev
 ```
 
+Open:
+
+```
+http://localhost:3000
+```
+
+---
+
+# Use This Template
+
+You can create a new project using this starter:
+
+```
+Use this template → Create a new repository
+```
+
+This provides a fast starting point for building **Payload CMS + Next.js applications**.
+
 ---
 
 # Use Cases
 
-This starter is ideal for:
+This starter works well for:
 
 * Headless CMS platforms
 * SaaS products
 * developer platforms
 * content websites
 * internal tools
+* marketing platforms
 
 ---
 
@@ -101,6 +126,7 @@ Services include:
 * AI Integration
 * Automation Workflows
 * API Integrations
+* Performance Optimization
 
 🌐 https://sazm.in
 
