@@ -1,3 +1,5 @@
+Full-stack Payload CMS + Next.js starter template with PostgreSQL and Tailwind CSS.
+
 # Payload CMS + Next.js Starter
 
 A production-ready **Payload CMS + Next.js starter template**.
